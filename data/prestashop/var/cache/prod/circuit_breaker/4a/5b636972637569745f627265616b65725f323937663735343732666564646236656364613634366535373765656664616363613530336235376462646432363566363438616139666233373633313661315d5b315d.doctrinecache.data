@@ -1,0 +1,91 @@
+1620965638
+s:6297:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Comercio electrónico: 10 consejos para emprendedores</title>
+    <link>https://www.prestashop.com/es/blog/consejos-emprendedores-ecommerce</link>
+    <description>Cada vez más personas miran con interés la opción de desarrollar un emprendimiento propio. Aquí, 10 consejos para dar tus primeros pasos al vender en Internet.</description>
+     <pubDate>Mon, 10 May 2021 18:04:34 +0200</pubDate>
+ <dc:creator>Manuela Basilico</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consejos-emprendedores-ecommerce</guid>
+  </item>
+  <item>
+    <title>Cómo Sephora optimizó su checkout con Klarna</title>
+    <link>https://www.prestashop.com/es/blog/sephora-checkout-klarna</link>
+    <description>Fundada en Francia en 1970, Sephora es una de las mayores compañías de cosméticos del mundo.</description>
+     <pubDate>Fri, 07 May 2021 11:31:43 +0200</pubDate>
+ <dc:creator>Rosanna Ryan</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/sephora-checkout-klarna</guid>
+  </item>
+  <item>
+    <title>Métodos de pago, ¿cuál es el mejor para mis clientes y mi negocio? </title>
+    <link>https://www.prestashop.com/es/blog/pago-clientes-negocio</link>
+    <description>Si ya tienes una tienda online o estás planteándote crear una, ya debes saber lo complejo que es lograr que el cliente llegue a la última fase del ciclo de venta y complete el pago del pedido.</description>
+     <pubDate>Wed, 05 May 2021 16:26:52 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/pago-clientes-negocio</guid>
+  </item>
+  <item>
+    <title>El reto de la retención de clientes en 2021</title>
+    <link>https://www.prestashop.com/es/blog/tendencias-fidelizacion-ecommerce</link>
+    <description>Muchos comerciantes han notado un aumento en su clientela desde el inicio de la crisis sanitaria. Son clientes muy demandados y a veces volátiles.</description>
+     <pubDate>Mon, 03 May 2021 18:27:40 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-fidelizacion-ecommerce</guid>
+  </item>
+  <item>
+    <title>La importancia de la sostenibilidad en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/importancia-sostenibilidad-ecommerce</link>
+    <description>PrestaShop es una plataforma que ha revolucionado el sector del ecommerce.</description>
+     <pubDate>Tue, 27 Apr 2021 16:04:22 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/importancia-sostenibilidad-ecommerce</guid>
+  </item>
+  <item>
+    <title>Las imágenes en PrestaShop fundamentales para vender más</title>
+    <link>https://www.prestashop.com/es/blog/importancia-imagenes-ecommerce</link>
+    <description>El auge del comercio digital es una realidad incuestionable.</description>
+     <pubDate>Fri, 16 Apr 2021 15:37:05 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/importancia-imagenes-ecommerce</guid>
+  </item>
+  <item>
+    <title>Por qué la gestión de consentimientos también afecta a tu tienda online</title>
+    <link>https://www.prestashop.com/es/blog/consentimientos-tienda-online</link>
+    <description>Todos lo conocemos: El banner de cookies que nos da la bienvenida desde hace un tiempo cada vez que abrimos una página web. Pero, ¿por qué necesitas un banner de esos?</description>
+     <pubDate>Wed, 14 Apr 2021 14:50:21 +0200</pubDate>
+ <dc:creator>Hanna Waldenmaier ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consentimientos-tienda-online</guid>
+  </item>
+  <item>
+    <title>El comercio electrónico en Alemania: Oportunidades y desafíos en plena pandemia de COVID-19</title>
+    <link>https://www.prestashop.com/es/blog/oportunidades-desafios-ecommerce</link>
+    <description>La pandemia ha acelerado la transformación digital y ha impulsado el crecimiento del comercio electrónico en todo el mundo.</description>
+     <pubDate>Mon, 12 Apr 2021 17:57:07 +0200</pubDate>
+ <dc:creator>Océane Juste</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/oportunidades-desafios-ecommerce</guid>
+  </item>
+  <item>
+    <title>Mejorar el rendimiento del ecommerce mediante pagos fraccionados en línea</title>
+    <link>https://www.prestashop.com/es/blog/ecommerce-pagos-fraccionados</link>
+    <description>Clearpay, el nuevo método de pago flexible para tiendas online ha llegado a España con mucha fuerza.</description>
+     <pubDate>Fri, 09 Apr 2021 14:07:09 +0200</pubDate>
+ <dc:creator>Ignacio González</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ecommerce-pagos-fraccionados</guid>
+  </item>
+  <item>
+    <title>El packaging: un elemento mucho más esencial de lo que creemos en la experiencia de compra</title>
+    <link>https://www.prestashop.com/es/blog/packaging-experiencia-compra</link>
+    <description>El packaging es un elemento fundamental en la mercadotecnia actual, tanto convencional como online, donde está cobrando especial relevancia por la llamada </description>
+     <pubDate>Fri, 09 Apr 2021 09:47:33 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/packaging-experiencia-compra</guid>
+  </item>
+  </channel>
+</rss>
+";

@@ -1,0 +1,15 @@
+"Product ID";Imagen;Nombre;Referencia;Categoría;"Precio (imp. excl.)";"Precio (imp. incl.)";Cantidad;Estado;Posición
+24;http://localhost:8080/25/monstera-deliciosa.jpg;"Monstera Deliciosa";#monstera;Interior;21008.403361;25000;70;0;1
+25;http://localhost:8080/26/sanseviera.jpg;Sanseviera;#sanseviera;Inicio;23949.579832;28500;50;0;2
+26;http://localhost:8080/27/monstera-adansonii.jpg;"Monstera Adansonii";;Inicio;14285.714286;17000;80;0;3
+27;http://localhost:8080/28/zamioculcas-zamifolia-zz.jpg;"Zamioculcas Zamifolia (ZZ)";;Inicio;26050.420168;31000;100;0;4
+28;http://localhost:8080/29/cereus-cactus.jpg;"Cereus Cactus";;Inicio;15126.050420;18000;100;0;5
+29;http://localhost:8080/30/philodendron-congo-rojo.jpg;"Philodendron Congo Rojo";#congorojo;Inicio;15126.050420;18000;70;0;6
+30;http://localhost:8080/31/ficus-audrey.jpg;"Ficus Audrey";#FicusAudrey;Inicio;23949.579832;28500;70;0;7
+31;http://localhost:8080/33/pencil-cactus.jpg;"Pencil Cactus";#pencilCactus;Inicio;26050.420168;31000;55;0;8
+32;http://localhost:8080/34/regadora.jpg;Regadora;#regadora;Inicio;7563.025210;9000;150;0;9
+33;http://localhost:8080/35/tijeras.jpg;Tijeras;#tijera;Inicio;5882.352941;7000;60;0;10
+34;http://localhost:8080/36/abono.jpg;Abono;#abono;Inicio;10084.033613;12000;40;0;11
+35;http://localhost:8080/38/maceta-30cm.jpg;"Maceta 30cm";#maceta30;Inicio;10084.033613;12000;0;1;12
+36;http://localhost:8080/48/maceta-35cm.jpg;"Maceta 35cm";#maceta35;Inicio;12605.042017;15000;0;1;13
+37;http://localhost:8080/53/maceta-46cm.jpg;"Maceta 46cm";#maceta46;Inicio;15126.050420;18000;0;1;14
