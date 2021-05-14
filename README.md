@@ -98,7 +98,7 @@ dbBackup:
 
 # Modificación de la plantilla de Prestashop
 
-![Proyecto%20Administracio%CC%81n%20de%20Redes%20Docker%20y%20Virtual%2053451f3b421d4be3887d3712f1d3691c/1.png](Proyecto%20Administracio%CC%81n%20de%20Redes%20Docker%20y%20Virtual%2053451f3b421d4be3887d3712f1d3691c/1.png)
+![Proyecto%20Administracio%CC%81n%20de%20Redes%20Docker%20y%20Virtual%2053451f3b421d4be3887d3712f1d3691c/1.png](https://github.com/Brocoleo/Prestashop/blob/main/PrestaShop/ImagesGit/1.png)
 
 *Resultado final de la Tienda de Prestashop*
 
