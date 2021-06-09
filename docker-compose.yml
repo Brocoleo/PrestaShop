@@ -4,7 +4,6 @@ services:
         container_name: mysql-DB
         volumes:
             - './data/prestashop_DB:/var/lib/mysql'
-        network_mode: prestashop-net
         restart: always
         environment:
             - MYSQL_ROOT_PASSWORD=admin
@@ -15,7 +14,6 @@ services:
         container_name: prestashop-web
         volumes:
             - './data/prestashop:/var/www/html'
-        network_mode: prestashop-net
         restart: always
         environment:
             - DB_SERVER=mysql
